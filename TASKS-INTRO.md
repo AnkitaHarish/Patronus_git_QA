@@ -1,6 +1,6 @@
 # Task and Grader System - Technical Overview
 
-**Purpose**: Onboarding guide for working with tasks and graders in the Browser Use Gym
+**Purpose***: Onboarding guide for working with tasks and graders in the Browser Use Gym
 
 **Audience**: Engineers creating, modifying, or debugging tasks and grader configurations
 
